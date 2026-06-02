@@ -10,7 +10,8 @@
     - PyTorch의 deeplabv3_resnet101 모델을 활용해 고양이 이미지를 세그멘테이션하고
     - NumPy의 np.where 연산을 통해 사막 배경 이미지(sand_img)와 성공적으로 합성하여 최종 결과물(result_img)을 출력하는 전체 파이프라인이 누락 없이 구현되어 있습니다.
     - 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
-    - 
+    - <img width="495" height="384" alt="image" src="https://github.com/user-attachments/assets/1e8af4b4-63f7-440e-9960-573076aee1cc" />
+
 
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
       # 마스크를 원본 크기로 Resize
